@@ -47,5 +47,5 @@ cuadrante 3
 este programa, pero es una buena práctica incluirla y quedará más
 claro para que sirve en los siguientes ejercicios.
 
-Una vez que termines tu actividad y la hayas probado con `pytest` o `pytest --tb=short`,
+Una vez que termines tu actividad y la hayas probado con `pytest`,
 subela a tu repositorio en GitHub, con el proceso de commit + push.
