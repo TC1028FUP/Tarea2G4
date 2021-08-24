@@ -6,14 +6,10 @@ Modifica el programa que se encuentra en la carpeta `src` que se llama
 `exercise.py` y que contiene el siguiente código:
 
 ```python
-def check_grade(grade):
-    # Write your code here
-    pass
-
 
 def main():
     grade = int(input("Enter grade: "))
-    print(check_grade(grade))
+    #escribe tu código abajo de esta línea
 
 
 if __name__ == '__main__':
@@ -34,9 +30,6 @@ La salida del programa debe de ser exactamente de la siguiente forma:
 Enter grade: 90
 Pass
 ```
-
-Únicamente necesitas modificar la función **check_grade** y asegurarte de
-que regrese la palabra correcta.
 
 **Nota:** No te preocupes por esta parte del código
 `if __name__ == '__main__':` por el momento. No la vamos a necesitar para
